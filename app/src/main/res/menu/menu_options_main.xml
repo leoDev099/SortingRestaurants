@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <item
+        android:id="@+id/menu_sort_options_spinner"
+        android:orderInCategory="101"
+        app:showAsAction="always"
+        app:actionViewClass="android.widget.Spinner"
+        android:title="@string/menu_sort_option_title">
+    </item>
+    <item
+        android:id="@+id/menu_search_option_item"
+        android:icon="@drawable/ic_bar_search"
+        android:orderInCategory="100"
+        app:showAsAction="always|collapseActionView"
+        app:actionViewClass="android.support.v7.widget.SearchView"
+        android:title="@string/menu_search_option_title">
+    </item>
+</menu>

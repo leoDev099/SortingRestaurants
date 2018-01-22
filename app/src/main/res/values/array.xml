@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="spinner_sort_values_array">
+        <item>@string/sort_option_best_match</item>
+        <item>@string/sort_option_newest</item>
+        <item>@string/sort_option_rating_average</item>
+        <item>@string/sort_option_distance</item>
+        <item>@string/sort_option_popularity</item>
+        <item>@string/sort_option_average_price</item>
+        <item>@string/sort_option_delivery_cost</item>
+        <item>@string/sort_option_min_cost</item>
+    </string-array>>
+
+    <string-array name="sort_values_priority_order">
+        <item>@string/sort_priority_open</item>
+        <item>@string/sort_priority_order_ahead</item>
+        <item>@string/sort_priority_closed</item>
+    </string-array>>
+
+</resources>

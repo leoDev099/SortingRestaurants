@@ -1,0 +1,10 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="toolbar_widget_general_margin">2dp</dimen>
+    <dimen name="md_elevation">4dp</dimen>
+    <dimen name="padding_top_recycler_view">16dp</dimen>
+    <dimen name="padding_bottom_recycler_view">4dp</dimen>
+    <dimen name="toggle_button_dimens_square">40dp</dimen>
+    <dimen name="general_padding_layouts">5dp</dimen>
+    <dimen name="card_view_corner_radious">4dp</dimen>
+</resources>

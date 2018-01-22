@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Sorting Restaurants</string>
+
+    <!-- RestaurantsAppbar-->
+    <string name="menu_sort_option_title">Sort</string>
+    <string name="menu_search_option_title">Search</string>
+
+    <!-- SearchMenuOptionBar-->
+    <string name="menu_search_hint">Type a restaurant</string>
+
+    <!-- RestaurantsActivity-->
+    <string name="toolbar_title_restaurants_list">Restaurants</string>
+
+    <!-- SortingOptions-->
+    <string name="sort_option_best_match">Best match</string>
+    <string name="sort_option_newest">Newest</string>
+    <string name="sort_option_rating_average">Rating avg</string>
+    <string name="sort_option_distance">Distance</string>
+    <string name="sort_option_popularity">Popularity</string>
+    <string name="sort_option_average_price">Average price</string>
+    <string name="sort_option_delivery_cost">Delivery cost</string>
+    <string name="sort_option_min_cost">Min Cost</string>
+
+    <!-- SortingPriorityOrder (when add priority here, update array/sort_values_priority_order)-->
+    <string name="sort_priority_open">open</string>
+    <string name="sort_priority_order_ahead">order ahead</string>
+    <string name="sort_priority_closed">closed</string>
+
+    <!-- searchFragment-->
+    <string name="toast_message_not_found_seargh">Restaurant not found, type the exact name</string>
+
+</resources>
